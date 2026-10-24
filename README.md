@@ -68,7 +68,7 @@
 
 ### Automotive
 
-- [Blobly Net](https://github.com/MartenH/blobly_net) - Automotive bus tester: live CAN trace with DBC decoding, ECU simulation, UDS/DoIP diagnostics, SOME/IP, and Lua and Python test scripting.
+- [blobly_net](https://github.com/MartenH/blobly_net) - Automotive bus tester: live CAN trace with DBC decoding, ECU simulation, UDS/DoIP diagnostics, SOME/IP, and Lua and Python test scripting.
 - [blobly_emb](https://github.com/MartenH/blobly_emb) - Embedded automotive ECU stack: multicore, simulation-first, with no dynamic memory allocation.
 
 ### Build Systems
